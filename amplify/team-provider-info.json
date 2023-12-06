@@ -1,0 +1,26 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-myvideogamelist-dev-213541-authRole",
+      "UnauthRoleArn": "arn:aws:iam::634823053108:role/amplify-myvideogamelist-dev-213541-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::634823053108:role/amplify-myvideogamelist-dev-213541-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-myvideogamelist-dev-213541-deployment",
+      "UnauthRoleName": "amplify-myvideogamelist-dev-213541-unauthRole",
+      "StackName": "amplify-myvideogamelist-dev-213541",
+      "StackId": "arn:aws:cloudformation:us-east-2:634823053108:stack/amplify-myvideogamelist-dev-213541/1f743190-93e0-11ee-b54b-06d22b6124b3",
+      "AmplifyAppId": "d1rcp6z5cw626m"
+    },
+    "categories": {
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d1rcp6z5cw626m",
+          "type": "manual"
+        }
+      },
+      "auth": {
+        "myvideogamelista3004a99": {}
+      }
+    }
+  }
+}
